@@ -1,0 +1,5 @@
+All Quiet on the Western Front,Erich Maria Remarque,200,Brown and Company,1929,9,War Novel
+The Maze Runner,James Dashner,416,Delacorte Press,2010,11,Science Fiction
+The Silver Eyes,Kira Breed-Wrisley and Scott Cawthon,400,Scholastic,2015,12,Horror Fiction
+The Invisible Man,H.G. Wells,186,Edward Arnold,1897,43,Science Fiction
+Christine,Stephen King,526,Viking,1983,0,Horror Fiction
